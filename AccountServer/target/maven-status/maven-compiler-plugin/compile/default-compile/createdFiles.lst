@@ -1,0 +1,7 @@
+com\epam\microservices\exceptions\AccountNotFoundException.class
+com\epam\microservices\accounts\AccountsController.class
+com\epam\microservices\services\accounts\AccountsServer.class
+com\epam\microservices\accounts\HomeController.class
+com\epam\microservices\accounts\Account.class
+com\epam\microservices\accounts\AccountRepository.class
+com\epam\microservices\accounts\AccountsConfiguration.class
